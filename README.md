@@ -1,7 +1,7 @@
 ### Hi there 
 
 ```js
-var personal = {
+const personal = {
 	name: 'Andrey Anuchkin', 
 	mainTechStack: 'PHP, JS',
 	age: 36, 

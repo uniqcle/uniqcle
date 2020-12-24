@@ -1,6 +1,20 @@
 ### Hi there 👋
 
-Hello
+```js
+var personal = {
+	              name: 'Andrey', 
+	              surname: 'Anuchkin',
+	              age: 36, 
+
+	developPhp(){
+		return 'php code...'; 
+	}
+  
+  developJS(){
+		return 'js code...'; 
+	}
+}; 
+```
 
 <!--
 **uniqcle/uniqcle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

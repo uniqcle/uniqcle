@@ -2,9 +2,9 @@
 
 ```js
 var personal = {
-	              name: 'Andrey Anuchkin', 
-	              mainTechStack: 'PHP, JS',
-	              age: 36, 
+	name: 'Andrey Anuchkin', 
+	mainTechStack: 'PHP, JS',
+	age: 36, 
 }; 
 ```
 

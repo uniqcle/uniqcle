@@ -2,17 +2,9 @@
 
 ```js
 var personal = {
-	              name: 'Andrey', 
-	              surname: 'Anuchkin',
+	              name: 'Andrey Anuchkin', 
+	              mainTechStack: 'PHP, JS',
 	              age: 36, 
-
-	developPhp(){
-		return 'php code...'; 
-	}
-  
-  developJS(){
-		return 'js code...'; 
-	}
 }; 
 ```
 

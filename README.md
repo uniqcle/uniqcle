@@ -4,7 +4,7 @@
 const personal = {
 	name: 'Andrey Anuchkin', 
 	mainTechStack: 'PHP, JS',
-	age: 36, 
+	age: 37, 
 }; 
 ```
 

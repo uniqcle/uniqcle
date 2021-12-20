@@ -3,7 +3,8 @@
 ```js
 const personal = {
 	name: 'Andrey Anuchkin', 
-	mainTechStack: 'PHP, JS, jQuery, Yii2, Bitrix, React',
+	mainTechStack: ['PHP', 'JS', 'jQuery', 'React', 'NodeJs'],
+	frameworks: ['Bitrix', 'Yii2', 'Wordpress']
 	age: 37, 
 }; 
 ```

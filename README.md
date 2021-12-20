@@ -4,7 +4,7 @@
 const personal = {
 	name: 'Andrey Anuchkin', 
 	mainTechStack: ['PHP', 'JS', 'jQuery', 'React', 'NodeJs'],
-	frameworks: ['Bitrix', 'Yii2', 'Wordpress']
+	frameworks: ['Bitrix', 'Yii2', 'Wordpress'],
 	age: 37, 
 }; 
 ```

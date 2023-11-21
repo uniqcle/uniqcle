@@ -3,8 +3,8 @@
 ```js
 const personal = {
 	name: 'Andrey Anuchkin', 
-	mainTechStack: ['HTML5', 'CSS3', 'PHP', 'JavaScript', 'jQuery', 'React', 'Redux', 'NodeJs'],
-	frameworks: ['Bitrix', 'Yii2'],
+	stack: ['HTML5', 'CSS3', 'PHP', 'JavaScript', 'jQuery', 'React', 'Redux', 'Bitrix'],
+	instruments: ['Gulp', 'Webpack'],
 }; 
 ```
 

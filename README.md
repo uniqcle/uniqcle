@@ -1,10 +1,12 @@
-### Hi, there. I'm Andrey 
+### Hi, there.
 
 ```js
 const personal = {
-	name: 'Andrey Anuchkin', 
-	stack: ['HTML5', 'CSS3', 'PHP', 'JavaScript', 'jQuery', 'React', 'Redux', 'Bitrix'],
-	instruments: ['Gulp', 'Webpack'],
+	name: 'Andrey Anuchkin',
+        profession: 'web-developer',
+	frontend: ['HTML5', 'CSS3', 'JavaScript', 'jQuery', 'React', 'Redux', 'Bitrix', 'TypeScript' , 'SASS', 'NPM',
+                'BootStrap', 'TailwindCSS', 'StyledComponents', 'GULP'],
+	backend: ['PHP', 'MySQL', 'Yii2', 'Bitrix', 'NodeJS']
 }; 
 ```
 

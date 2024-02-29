@@ -3,7 +3,7 @@
 ```js
 const personal = {
 	name: 'Andrey Anuchkin',
-        profession: 'web-developer',
+        profession: 'Web Developer',
 	frontend: ['HTML5', 'CSS3', 'JavaScript', 'jQuery', 'React', 'Redux', 'Bitrix', 'TypeScript' , 'SASS', 'NPM',
                 'BootStrap', 'TailwindCSS', 'StyledComponents', 'GULP'],
 	backend: ['PHP', 'MySQL', 'Yii2', 'Bitrix', 'NodeJS']

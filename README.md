@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### My Skills
 
+<p dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5103eee83f80682631523b352e3b10cac04de54ed9250e6e82b3f71519c2e5a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d6339303431313f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5103eee83f80682631523b352e3b10cac04de54ed9250e6e82b3f71519c2e5a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d6339303431313f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" data-canonical-src="https://img.shields.io/badge/HTML-c90411?style=plastic&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfef04980eeeef8da400f892fc0222b6f90801b1e200329eca135fe415fb77f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3166383766663f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/dfef04980eeeef8da400f892fc0222b6f90801b1e200329eca135fe415fb77f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3166383766663f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS-1f87ff?style=plastic&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -45,3 +46,4 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d99e46b2ffc51de8abe6e3a2f0c93508897fd6c9d240864767966281f10e34da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6637323630613f7374796c653d706c6173746963266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d99e46b2ffc51de8abe6e3a2f0c93508897fd6c9d240864767966281f10e34da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6637323630613f7374796c653d706c6173746963266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-f7260a?style=plastic&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
 
+</p>
